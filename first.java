@@ -1,5 +1,5 @@
 
-// INPUT AND OUTPUT
+//INPUT AND OUTPUT
 
 /*import java.util.*;
 class first{
